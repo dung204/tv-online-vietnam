@@ -204,6 +204,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htvc_vgs_shop" tvg-name="HTVC HOMESHOPPING" tvg-logo="https://i.imgur.com/skT94At.png" group-title="HTV-HTVC", HTVC HOMESHOPPING
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8?
 
+#EXTINF:0 tvg-id="htvcfbnc" tvg-name="HTVC FBNC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png" group-title="HTV-HTVC", FBNC HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
+
 #EXTINF:0 tvg-id="sctv1hd" tvg-name="SCTV1 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/f5kQpoF.png", SCTV1
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
@@ -465,134 +468,128 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_
 #EXTINF:0 tvg-name="CNA HD" tvg-logo="https://i.imgur.com/W70LTtj.png" group-title="Nước ngoài", CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:0 tvg-id="bloomberg" tvg-name="Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1280px-New_Bloomberg_Logo.svg.png" group-title="Nước ngoài", Bloomberg
+#EXTINF:0 tvg-id="bloomberg" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/lTTwm3L.png" group-title="Nước ngoài", Bloomberg
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
 
 #EXTINF:0 tvg-id="france24eng" tvg-name="France 24 English" tvg-logo="https://i.imgur.com/UNEjB9A.png" group-title="Nước ngoài", France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
-#EXTINF:0 tvg-name="OPT 1" tvg-logo="https://i.imgur.com/r8qjcs4.png" group-title="Nước ngoài", OPT 1
-http://myott.tv/stream/RTDQV1YG6K/99.m3u8
-
-#EXTINF:0 tvg-id="antvhd" tvg-name="ANTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a8/Logoantv.png" group-title="Khác", ANTV
+#EXTINF:0 tvg-id="antvhd" tvg-name="ANTV HD" tvg-logo="https://i.imgur.com/8goldzC.png" group-title="Khác", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vovtv" tvg-name="VOV TV HD" tvg-logo="https://i.postimg.cc/jjXmg2TC/1-VOV-VIETNAM-JOURNEY.png" group-title="Khác", VOV TV HD
+#EXTINF:0 tvg-id="vovtv" tvg-name="VOV TV HD" tvg-logo="https://i.imgur.com/yyftSZg.png" group-title="Khác", VOV TV HD
 http://vncdn.mediatech.vn/vovlive/tv1live_manifest.m3u8
 
-#EXTINF:0 tvg-id="hanoi1" tvg-name="Hà Nội 1" tvg-logo="https://mytv.com.vn/upload/channel/190.png" group-title="Địa phương", Hà Nội 1 HD
+#EXTINF:0 tvg-id="qpvnhd" tvg-name="QPVN HD" tvg-logo="https://i.imgur.com/fBvkVen.png" group-title="Khác", QPVN HD
+https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
+
+#EXTINF:0 tvg-id="quochoi" tvg-name="Quốc Hội" tvg-logo="https://i.imgur.com/pyQJnZz.png" group-title="Khác", Quốc Hội HD
+http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
+
+#EXTINF:0 tvg-id="nhandan" tvg-name="Nhân Dân" tvg-logo="https://i.imgur.com/7zgsFIK.png" group-title="Khác", Nhân Dân HD
+https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="hanoi1" tvg-name="Hà Nội 1" tvg-logo="https://i.imgur.com/zkigXd4.png" group-title="Địa phương", Hà Nội 1 HD
 https://live.hanoitv.vn/hntvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="hanoi2" tvg-name="Hà Nội 2" tvg-logo="https://mytv.com.vn/upload/channel/193.png" group-title="Địa phương", Hà Nội 2 HD
+#EXTINF:0 tvg-id="hanoi2" tvg-name="Hà Nội 2" tvg-logo="https://i.imgur.com/97VIVBi.png" group-title="Địa phương", Hà Nội 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="qpvnhd" tvg-name="QPVN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/QPVN.png" group-title="Khác", QPVN HD
-https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
-
-#EXTINF:0 tvg-id="quochoi" tvg-name="Quốc Hội" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png" group-title="Khác", Quốc Hội HD
-http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
-
-#EXTINF:0 tvg-id="nhandan" tvg-name="Nhân Dân" tvg-logo="https://login.nhandantv.vn/cloud/timthumb.php?src=https://login.nhandantv.vn/cloud/cdn/logo_29072019.png&h=150&w=350&zc=2" group-title="Khác", Nhân Dân HD
-https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="htvcfbnc" tvg-name="HTVC FBNC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png" group-title="Khác", FBNC HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
-
-#EXTINF:0 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png" group-title="Địa phương", THVL 1 HD
+#EXTINF:0 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" tvg-logo="https://i.imgur.com/ypp8UKE.png" group-title="Địa phương", THVL 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png" group-title="Địa phương", THVL 2 HD
+#EXTINF:0 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" tvg-logo="https://i.imgur.com/HyqXTE7.png" group-title="Địa phương", THVL 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png" group-title="Địa phương", THVL 3 HD
+#EXTINF:0 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" tvg-logo="https://i.imgur.com/VJeCvoa.png" group-title="Địa phương", THVL 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vinhlong4hd" tvg-name="THVL4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png" group-title="Địa phương", THVL 4 HD
+#EXTINF:0 tvg-id="vinhlong4hd" tvg-name="THVL4 HD" tvg-logo="https://i.imgur.com/8wlVphu.png" group-title="Địa phương", THVL 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="angiang" tvg-name="An Giang" tvg-logo="https://mytv.com.vn/upload/channel/671.png" group-title="Địa phương", An Giang
+#EXTINF:0 tvg-id="angiang" tvg-name="An Giang" tvg-logo="https://i.imgur.com/pdmqIkH.png" group-title="Địa phương", An Giang
 http://221.133.9.35:1935/live/1.stream_240p/chunklist_w396264807.m3u8
 
-#EXTINF:0 tvg-name="Bạc Liêu" tvg-logo="https://mytv.com.vn/upload/channel/992.png" group-title="Địa phương", Bạc Liêu
+#EXTINF:0 tvg-name="Bạc Liêu" tvg-logo="https://i.imgur.com/JjGjqzE.png" group-title="Địa phương", Bạc Liêu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
 
-#EXTINF:0 tvg-id="backan" tvg-name="Bắc Kạn" tvg-logo="https://mytv.com.vn/upload/channel/992.png" group-title="Địa phương", Bắc Kạn
+#EXTINF:0 tvg-id="backan" tvg-name="Bắc Kạn" tvg-logo="https://i.imgur.com/6HQeLRw.png" group-title="Địa phương", Bắc Kạn
 http://113.160.162.131:8080/tv/bk.m3u8
 
-#EXTINF:0 tvg-id="bacninh" tvg-name="Bắc Ninh" tvg-logo="https://mytv.com.vn/upload/channel/992.png" group-title="Địa phương", Bắc Ninh
+#EXTINF:0 tvg-id="bacninh" tvg-name="Bắc Ninh" tvg-logo="https://i.imgur.com/Ju7lwHi.png" group-title="Địa phương", Bắc Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
 
 #EXTINF:0 tvg-id="bacgiang" tvg-name="Bắc Giang" tvg-logo="https://mytv.com.vn/upload/channel/981.png" group-title="Địa phương", Bắc Giang
 http://103.90.220.236/bgtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-name="Bà Rịa Vũng Tàu" tvg-logo="https://mytv.com.vn/upload/channel/721.png" group-title="Địa phương", Bà Rịa Vũng Tàu
+#EXTINF:0 tvg-id="vungtau" tvg-name="Bà Rịa Vũng Tàu" tvg-logo="https://mytv.com.vn/upload/channel/721.png" group-title="Địa phương", Bà Rịa Vũng Tàu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
 
-#EXTINF:0 tvg-id="bentre" tvg-name="Bến Tre" tvg-logo="https://mytv.com.vn/upload/channel/721.png" group-title="Địa phương", Bến Tre
+#EXTINF:0 tvg-id="bentre" tvg-name="Bến Tre" tvg-logo="https://i.imgur.com/l8Ae26m.png" group-title="Địa phương", Bến Tre
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="binhduong1" tvg-name="Bình Dương 1" tvg-logo="https://mytv.com.vn/upload/channel/931.png" group-title="Địa phương", Bình Dương 1
+#EXTINF:0 tvg-id="binhduong1" tvg-name="Bình Dương 1" tvg-logo="https://i.imgur.com/Soe6MC8.png" group-title="Địa phương", Bình Dương 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="binhduong2" tvg-name="Bình Dương 2" tvg-logo="https://mytv.com.vn/upload/channel/931.png" group-title="Địa phương", Bình Dương 2
+#EXTINF:0 tvg-id="binhduong2" tvg-name="Bình Dương 2" tvg-logo="https://i.imgur.com/pEaPECX.png" group-title="Địa phương", Bình Dương 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="binhduong4" tvg-name="Bình Dương 4" tvg-logo="https://mytv.com.vn/upload/channel/931.png" group-title="Địa phương", Bình Dương 4
+#EXTINF:0 tvg-id="binhduong4" tvg-name="Bình Dương 4" tvg-logo="https://i.imgur.com/s84z1mZ.png" group-title="Địa phương", Bình Dương 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-name="Bình Dương 6" tvg-logo="https://mytv.com.vn/upload/channel/931.png" group-title="Địa phương", Bình Dương 6
+#EXTINF:0 tvg-name="Bình Dương 6" tvg-logo="https://i.imgur.com/fDZIkFv.png" group-title="Địa phương", Bình Dương 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="anvienhd" tvg-name="Bình Dương 9 - An Viên HD" tvg-logo="https://i.imgur.com/NF5YDkn.png" group-title="Địa phương", Bình Dương 9 - An Viên HD
+#EXTINF:0 tvg-id="anvienhd" tvg-name="Bình Dương 9 - An Viên HD" tvg-logo="https://i.imgur.com/k9FyzM3.png" group-title="Địa phương", Bình Dương 9 - An Viên HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-name="Bình Dương 11" tvg-logo="https://i.imgur.com/NF5YDkn.png" group-title="Địa phương", Bình Dương 11
+#EXTINF:0 tvg-name="Bình Dương 11" tvg-logo="https://i.imgur.com/4woLlC3.png" group-title="Địa phương", Bình Dương 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="binhdinh" tvg-name="Bình Định" tvg-logo="https://i.imgur.com/NF5YDkn.png" group-title="Địa phương", Bình Định
+#EXTINF:0 tvg-id="binhdinh" tvg-name="Bình Định" tvg-logo="https://i.imgur.com/WgLPxi6.png" group-title="Địa phương", Bình Định
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="binhphuoc1" tvg-name="Bình Phước 1 HD" tvg-logo="https://mytv.com.vn/upload/channel/931.png" group-title="Địa phương", Bình Phước 1 HD
+#EXTINF:0 tvg-id="binhphuoc1" tvg-name="Bình Phước 1 HD" tvg-logo="https://i.imgur.com/rI99hNn.png" group-title="Địa phương", Bình Phước 1 HD
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="binhphuoc2" tvg-name="Bình Phước 2 HD" tvg-logo="https://mytv.com.vn/upload/channel/931.png" group-title="Địa phương", Bình Phước 2 HD
+#EXTINF:0 tvg-id="binhphuoc2" tvg-name="Bình Phước 2 HD" tvg-logo="https://i.imgur.com/UwxLugU.png" group-title="Địa phương", Bình Phước 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-name="Bình Phước 3 HD" tvg-logo="https://mytv.com.vn/upload/channel/931.png" group-title="Địa phương", Bình Phước 3 HD
+#EXTINF:0 tvg-name="Bình Phước 3 HD" tvg-logo="https://i.imgur.com/5yQSdwh.png" group-title="Địa phương", Bình Phước 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://vips-livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="binhthuan" tvg-name="Bình Thuận" tvg-logo="https://mytv.com.vn/upload/channel/861.png" group-title="Địa phương", Bình Thuận
+#EXTINF:0 tvg-id="binhthuan" tvg-name="Bình Thuận" tvg-logo="https://i.imgur.com/1TWIKHe.png" group-title="Địa phương", Bình Thuận
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="caobang" tvg-id="binhthuan" tvg-name="Cao Bằng" tvg-logo="https://mytv.com.vn/upload/channel/861.png" group-title="Địa phương", Cao Bằng
+#EXTINF:0 tvg-id="caobang" tvg-id="binhthuan" tvg-name="Cao Bằng" tvg-logo="https://i.imgur.com/zYdBUuE.png" group-title="Địa phương", Cao Bằng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
 
-#EXTINF:0 tvg-id="camau" tvg-name="Cà Mau" tvg-logo="https://mytv.com.vn/upload/channel/931.png" group-title="Địa phương", Cà Mau
+#EXTINF:0 tvg-id="camau" tvg-name="Cà Mau" tvg-logo="https://i.imgur.com/Zft3fPI.png" group-title="Địa phương", Cà Mau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="cantho" tvg-name="Cần Thơ" tvg-logo="https://mytv.com.vn/upload/channel/931.png" group-title="Địa phương", Cần Thơ
+#EXTINF:0 tvg-id="cantho" tvg-name="Cần Thơ" tvg-logo="https://i.imgur.com/Nm6tCCA.png" group-title="Địa phương", Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://vips-livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 
@@ -602,31 +599,31 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:0 tvg-id="danang2" tvg-name="Đà Nẵng 2" tvg-logo="https://mytv.com.vn/upload/channel/432.png" group-title="Địa phương", Đà Nẵng 2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
-#EXTINF:0 tvg-id="daklak" tvg-name="Đắk Lắk" tvg-logo="https://mytv.com.vn/upload/channel/601.png" group-title="Địa phương", Đắk Lắk
+#EXTINF:0 tvg-id="daklak" tvg-name="Đắk Lắk" tvg-logo="https://i.imgur.com/jtyDVU5.png" group-title="Địa phương", Đắk Lắk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="dienbien" tvg-name="Điện Biên" tvg-logo="https://mytv.com.vn/upload/channel/601.png" group-title="Địa phương", Điện Biên
+#EXTINF:0 tvg-id="dienbien" tvg-name="Điện Biên" tvg-logo="https://i.imgur.com/oVTYbHz.png" group-title="Địa phương", Điện Biên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-name="Đồng Nai 1" tvg-logo="https://mytv.com.vn/upload/channel/601.png" group-title="Địa phương", Đồng Nai 1
+#EXTINF:0 tvg-name="Đồng Nai 1" tvg-logo="https://i.imgur.com/x7NLopc.png" group-title="Địa phương", Đồng Nai 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-name="Đồng Nai 2" tvg-logo="https://mytv.com.vn/upload/channel/602.png" group-title="Địa phương", Đồng Nai 2
+#EXTINF:0 tvg-name="Đồng Nai 2" tvg-logo="https://i.imgur.com/FEVaoJH.png" group-title="Địa phương", Đồng Nai 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="dongthap" tvg-name="Đồng Tháp 1" tvg-logo="https://mytv.com.vn/upload/channel/661.png" group-title="Địa phương", Đồng Tháp 1
+#EXTINF:0 tvg-id="dongthap" tvg-name="Đồng Tháp 1" tvg-logo="https://i.imgur.com/uMpTmJ4.png" group-title="Địa phương", Đồng Tháp 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-name="Đồng Tháp 2" tvg-logo="https://mytv.com.vn/upload/channel/661.png" group-title="Địa phương", Đồng Tháp 2
+#EXTINF:0 tvg-name="Đồng Tháp 2" tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="Địa phương", Đồng Tháp 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
 
-#EXTINF:0 tvg-id="gialai" tvg-name="Gia Lai" tvg-logo="https://mytv.com.vn/upload/channel/661.png" group-title="Địa phương", Gia Lai
+#EXTINF:0 tvg-id="gialai" tvg-name="Gia Lai" tvg-logo="https://i.imgur.com/ZEAxzoF.png" group-title="Địa phương", Gia Lai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 
@@ -634,131 +631,131 @@ https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 
-#EXTINF:0 tvg-id="kontum" tvg-name="Kon Tum" tvg-logo="https://mytv.com.vn/upload/channel/661.png" group-title="Địa phương", Kon Tum
+#EXTINF:0 tvg-id="kontum" tvg-name="Kon Tum" tvg-logo="https://i.imgur.com/TFTkBVt.png" group-title="Địa phương", Kon Tum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="langson" tvg-name="Lạng Sơn" tvg-logo="https://mytv.com.vn/upload/channel/661.png" group-title="Địa phương", Lạng Sơn 
+#EXTINF:0 tvg-id="langson" tvg-name="Lạng Sơn" tvg-logo="https://i.imgur.com/xQXyppa.png" group-title="Địa phương", Lạng Sơn 
 http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="ninhbinh" tvg-name="Ninh Bình" tvg-logo="https://mytv.com.vn/upload/channel/661.png" group-title="Địa phương", Ninh Bình 
+#EXTINF:0 tvg-id="ninhbinh" tvg-name="Ninh Bình" tvg-logo="https://i.imgur.com/Yep6I7m.png" group-title="Địa phương", Ninh Bình 
 https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="ninhthuan" tvg-name="Ninh Thuận" tvg-logo="https://mytv.com.vn/upload/channel/661.png" group-title="Địa phương", Ninh Thuận
+#EXTINF:0 tvg-id="ninhthuan" tvg-name="Ninh Thuận" tvg-logo="https://i.imgur.com/4tOxerj.png" group-title="Địa phương", Ninh Thuận
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="hagiang" tvg-name="Hà Giang" tvg-logo="https://mytv.com.vn/upload/channel/661.png" group-title="Địa phương", Hà Giang
+#EXTINF:0 tvg-id="hagiang" tvg-name="Hà Giang" tvg-logo="https://i.imgur.com/pw4AC2i.png" group-title="Địa phương", Hà Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="hanam" tvg-name="Hà Nam" tvg-logo="https://mytv.com.vn/upload/channel/901.png" group-title="Địa phương", Hà Nam
+#EXTINF:0 tvg-id="hanam" tvg-name="Hà Nam" tvg-logo="https://i.imgur.com/TGjEKP7.png" group-title="Địa phương", Hà Nam
 http://103.90.220.236/thhnlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="hatinh" tvg-name="Hà Tĩnh" tvg-logo="https://mytv.com.vn/upload/channel/381.png" group-title="Địa phương", Hà Tĩnh
+#EXTINF:0 tvg-id="hatinh" tvg-name="Hà Tĩnh" tvg-logo="https://i.imgur.com/5Vgbggw.png" group-title="Địa phương", Hà Tĩnh
 https://hatinhtv.vn/hls/httv.m3u8
 
-#EXTINF:0 tvg-id="haiduong" tvg-name="Hải Dương" tvg-logo="https://mytv.com.vn/upload/channel/159.png" group-title="Địa phương", Hải Dương
+#EXTINF:0 tvg-id="haiduong" tvg-name="Hải Dương" tvg-logo="https://i.imgur.com/XDMIFvF.png" group-title="Địa phương", Hải Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="haiphong" tvg-name="Hải Phòng" tvg-logo="https://mytv.com.vn/upload/channel/159.png" group-title="Địa phương", Hải Phòng
+#EXTINF:0 tvg-id="haiphong" tvg-name="Hải Phòng" tvg-logo="https://i.imgur.com/cfrJxx5.png" group-title="Địa phương", Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 
-#EXTINF:0 tvg-id="haugiang" tvg-name="Hậu Giang" tvg-logo="https://mytv.com.vn/upload/channel/951.png" group-title="Địa phương", Hậu Giang
+#EXTINF:0 tvg-id="haugiang" tvg-name="Hậu Giang" tvg-logo="https://i.imgur.com/H82Ycpc.png" group-title="Địa phương", Hậu Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
 
-#EXTINF:0 tvg-id="hungyen" tvg-name="Hưng Yên" tvg-logo="https://mytv.com.vn/upload/channel/891.png" group-title="Địa phương", Hưng Yên
+#EXTINF:0 tvg-id="hungyen" tvg-name="Hưng Yên" tvg-logo="https://i.imgur.com/Xmbssq4.png" group-title="Địa phương", Hưng Yên
 http://103.90.220.236/hytvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="hoabinh" tvg-name="Hòa Bình" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Hòa Bình
+#EXTINF:0 tvg-id="hoabinh" tvg-name="Hòa Bình" tvg-logo="https://i.imgur.com/ZhUlzmW.png" group-title="Địa phương", Hòa Bình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="kiengiang" tvg-name="Kiên Giang" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Kiên Giang
+#EXTINF:0 tvg-id="kiengiang" tvg-name="Kiên Giang" tvg-logo="https://i.imgur.com/TF3MPS1.png" group-title="Địa phương", Kiên Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://vips-livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="lamdong" tvg-name="Lâm Đồng" tvg-logo="https://mytv.com.vn/upload/channel/491.png" group-title="Địa phương", Lâm Đồng
+#EXTINF:0 tvg-id="lamdong" tvg-name="Lâm Đồng" tvg-logo="https://i.imgur.com/ZBkU2Gm.png" group-title="Địa phương", Lâm Đồng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="laocai" tvg-name="Lào Cai" tvg-logo="https://mytv.com.vn/upload/channel/241.png" group-title="Địa phương", Lào Cai
+#EXTINF:0 tvg-id="laocai" tvg-name="Lào Cai" tvg-logo="https://i.imgur.com/va6EgDh.png" group-title="Địa phương", Lào Cai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="longan" tvg-name="Long An" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Long An
+#EXTINF:0 tvg-id="longan" tvg-name="Long An" tvg-logo="https://i.imgur.com/FmwM4nh.png" group-title="Địa phương", Long An
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="namdinh" tvg-name="Nam Định" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Nam Định
+#EXTINF:0 tvg-id="namdinh" tvg-name="Nam Định" tvg-logo="https://i.imgur.com/pMJZOnw.png" group-title="Địa phương", Nam Định
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="nghean" tvg-name="Nghệ An" tvg-logo="https://mytv.com.vn/upload/channel/phpKczJ13_5d75cc55e9d4a.png" group-title="Địa phương", Nghệ An
+#EXTINF:0 tvg-id="nghean" tvg-name="Nghệ An" tvg-logo="https://i.imgur.com/JjXijIA.png" group-title="Địa phương", Nghệ An
 http://103.90.220.236/natvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-name="Phú Yên" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Phú Yên
+#EXTINF:0 tvg-name="Phú Yên" tvg-logo="https://i.imgur.com/ojcKLF7.png" group-title="Địa phương", Phú Yên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="phutho" tvg-name="Phú Thọ" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Phú Thọ
+#EXTINF:0 tvg-id="phutho" tvg-name="Phú Thọ" tvg-logo="https://i.imgur.com/ebIiZgM.png" group-title="Địa phương", Phú Thọ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangbinh" tvg-name="Quảng Bình" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Quảng Bình
+#EXTINF:0 tvg-id="quangbinh" tvg-name="Quảng Bình" tvg-logo="https://i.imgur.com/fFNK31f.png" group-title="Địa phương", Quảng Bình
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangtri" tvg-name="Quảng Trị" tvg-logo="https://mytv.com.vn/upload/channel/741.png" group-title="Địa phương", Quảng Trị
+#EXTINF:0 tvg-id="quangtri" tvg-name="Quảng Trị" tvg-logo="https://i.imgur.com/u9LXVu4.png" group-title="Địa phương", Quảng Trị
 http://118.107.68.17:1935/VTC/smil:QuangtriTV.smil/chunklist_w1622900983_b464000_slVIE.m3u8
 
-#EXTINF:0 tvg-id="quangnam" tvg-name="Quảng Nam" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Quảng Nam
+#EXTINF:0 tvg-id="quangnam" tvg-name="Quảng Nam" tvg-logo="https://i.imgur.com/5kQc0Gy.png" group-title="Địa phương", Quảng Nam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangngai" tvg-name="Quảng Ngãi" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Quảng Ngãi
+#EXTINF:0 tvg-id="quangngai" tvg-name="Quảng Ngãi" tvg-logo="https://i.imgur.com/FTyvVYO.png" group-title="Địa phương", Quảng Ngãi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="quangninh1" tvg-name="Quảng Ninh 1" tvg-logo="https://mytv.com.vn/upload/channel/741.png" group-title="Địa phương", Quảng Ninh 1
+#EXTINF:0 tvg-id="quangninh1" tvg-name="Quảng Ninh 1" tvg-logo="https://i.imgur.com/bMlJX2I.png" group-title="Địa phương", Quảng Ninh 1
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="quangninh3" tvg-name="Quảng Ninh 3" tvg-logo="https://mytv.com.vn/upload/channel/741.png" group-title="Địa phương", Quảng Ninh 3
+#EXTINF:0 tvg-id="quangninh3" tvg-name="Quảng Ninh 3" tvg-logo="https://i.imgur.com/KgNVOmr.png" group-title="Địa phương", Quảng Ninh 3
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 
 #EXTINF:0 tvg-id="quangtri" tvg-name="Quảng Trị" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Quảng Trị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="soctrang" tvg-name="Sóc Trăng" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Sóc Trăng
+#EXTINF:0 tvg-id="soctrang" tvg-name="Sóc Trăng" tvg-logo="https://i.imgur.com/P8X69iD.png" group-title="Địa phương", Sóc Trăng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="sonla" tvg-name="Sơn La" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Sơn La
+#EXTINF:0 tvg-id="sonla" tvg-name="Sơn La" tvg-logo="https://i.imgur.com/MGU1eBI.png" group-title="Địa phương", Sơn La
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="tayninh" tvg-name="Tây Ninh" tvg-logo="https://mytv.com.vn/upload/channel/741.png" group-title="Địa phương", Tây Ninh
+#EXTINF:0 tvg-id="tayninh" tvg-name="Tây Ninh" tvg-logo="https://i.imgur.com/VXF9kJR.png" group-title="Địa phương", Tây Ninh
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 
-#EXTINF:0 tvg-id="thanhhoa" tvg-name="Thanh Hóa" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Thanh Hóa
+#EXTINF:0 tvg-id="thanhhoa" tvg-name="Thanh Hóa" tvg-logo="https://i.imgur.com/RZWyeHA.png" group-title="Địa phương", Thanh Hóa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="thaibinh" tvg-name="Thái Bình" tvg-logo="https://mytv.com.vn/upload/channel/171.png" group-title="Địa phương", Thái Bình
+#EXTINF:0 tvg-id="thaibinh" tvg-name="Thái Bình" tvg-logo="https://i.imgur.com/h5eDAPO.png" group-title="Địa phương", Thái Bình
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="thainguyen" tvg-name="Thái Nguyên 1" tvg-logo="https://mytv.com.vn/upload/channel/171.png" group-title="Địa phương", Thái Nguyên 1
+#EXTINF:0 tvg-id="thainguyen" tvg-name="Thái Nguyên 1" tvg-logo="https://i.imgur.com/4NRG4bl.png" group-title="Địa phương", Thái Nguyên 1
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 
-#EXTINF:0 tvg-id="hue" tvg-name="Thừa Thiên Huế" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Thừa Thiên Huế
+#EXTINF:0 tvg-id="hue" tvg-name="Thừa Thiên Huế" tvg-logo="https://i.imgur.com/HQ7jCa6.png" group-title="Địa phương", Thừa Thiên Huế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="tiengiang" tvg-name="Tiền Giang" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Tiền Giang
+#EXTINF:0 tvg-id="tiengiang" tvg-name="Tiền Giang" tvg-logo="https://i.imgur.com/81U4Jvv.png" group-title="Địa phương", Tiền Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 
@@ -766,23 +763,15 @@ https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="tuyenquang" tvg-name="Tuyên Quang" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Tuyên Quang
+#EXTINF:0 tvg-id="tuyenquang" tvg-name="Tuyên Quang" tvg-logo="https://i.imgur.com/Jfi89Zl.png" group-title="Địa phương", Tuyên Quang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="tuyenquang" tvg-name="Tuyên Quang" tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="Địa phương", Tuyên Quang
+#EXTINF:0 tvg-id="vinhphuc" tvg-name="Vĩnh Phúc" tvg-logo="https://i.imgur.com/i1yebM7.png" group-title="Địa phương", Vĩnh Phúc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vinhphuc" tvg-name="Vĩnh Phúc" tvg-logo="https://mytv.com.vn/upload/channel/171.png" group-title="Địa phương", Vĩnh Phúc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
-https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="vungtau" tvg-name="Vũng Tàu" tvg-logo="https://mytv.com.vn/upload/channel/171.png" group-title="Địa phương", Vũng Tàu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
-https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
-
-#EXTINF:0 tvg-name="Yên Bái" tvg-logo="https://mytv.com.vn/upload/channel/171.png" group-title="Địa phương", Yên Bái
+#EXTINF:0 tvg-name="Yên Bái" tvg-logo="https://i.imgur.com/a8XG12r.png" group-title="Địa phương", Yên Bái
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:0 tvg-name="VOV1" tvg-logo="https://mytv.com.vn/upload/channel/110.png" group-title="Radio", VOV1

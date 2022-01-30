@@ -350,7 +350,7 @@ https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="discoveryasiahd" tvg-name="Discovery Asia HD" tvg-logo="https://i.imgur.com/cEyH79g.png" group-title="Nước ngoài", Discovery Asia HD
+#EXTINF:0 tvg-id="discoveryasiahd" tvg-name="Discovery Asia HD" tvg-logo="https://i.imgur.com/lD13h2Y.png" group-title="Nước ngoài", Discovery Asia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
@@ -360,21 +360,21 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:0 tvg-id="historyhd" tvg-name="History HD" tvg-logo="https://i.imgur.com/VG9p0YJ.png" group-title="Nước ngoài", History HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
-#EXTINF:0 tvg-id="animalhd" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/7960xlD.png" group-title="Nước ngoài", Animal Planet HD
+#EXTINF:0 tvg-id="animalhd" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/BJVAUWg.png" group-title="Nước ngoài", Animal Planet HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="planetearthhd" tvg-name="Planet Earth" tvg-logo="https://i.imgur.com/L0EQrhp.png" group-title="Nước ngoài", Planet Earth
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="ngwhd" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.imgur.com/b2Yo8pI.png" group-title="Nước ngoài", Nat Geo Wild HD
+#EXTINF:0 tvg-id="ngwhd" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.imgur.com/RFuZxnW.png" group-title="Nước ngoài", Nat Geo Wild HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
-#EXTINF:0 tvg-id="ngchd" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/2tHIEDM.png" group-title="Nước ngoài", NGC HD
+#EXTINF:0 tvg-id="ngchd" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/xGYp3OZ.png" group-title="Nước ngoài", NGC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0  tvg-id="axnhd" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/hrDAOQE.png" group-title="Nước ngoài", AXN HD
+#EXTINF:0  tvg-id="axnhd" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/yofAAcJ.png" group-title="Nước ngoài", AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -385,15 +385,15 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0  tvg-id="man" tvg-name="Man" tvg-logo="https://i.imgur.com/eojhBXT.png" group-title="Nước ngoài", Man
 https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/l
 
-#EXTINF:0 tvg-id="blueantent" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://i.imgur.com/HyPZZbG.png" group-title="Nước ngoài", Blue Ant Entertainment HD
+#EXTINF:0 tvg-id="blueantent" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://i.imgur.com/qAaqiZV.png" group-title="Nước ngoài", Blue Ant Entertainment HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="blueantext" tvg-name="Blue Ant Extreme HD" tvg-logo="https://i.imgur.com/pb1J2et.png" group-title="Nước ngoài", Blue Ant Extreme HD
+#EXTINF:0 tvg-id="blueantext" tvg-name="Blue Ant Extreme HD" tvg-logo="https://i.imgur.com/x9cTjB1.png" group-title="Nước ngoài", Blue Ant Extreme HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="outdoorhd" tvg-name="Outdoor Channel HD" tvg-logo="https://i.imgur.com/vV4Q9TS.png" group-title="Nước ngoài", Outdoor Channel HD
+#EXTINF:0 tvg-id="outdoorhd" tvg-name="Outdoor Channel HD" tvg-logo="https://i.imgur.com/zvHDHHN.png" group-title="Nước ngoài", Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 

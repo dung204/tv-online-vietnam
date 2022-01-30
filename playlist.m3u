@@ -774,22 +774,22 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-name="Yên Bái" tvg-logo="https://i.imgur.com/a8XG12r.png" group-title="Địa phương", Yên Bái
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:0 tvg-name="VOV1" tvg-logo="https://mytv.com.vn/upload/channel/110.png" group-title="Radio", VOV1
+#EXTINF:0 tvg-name="VOV1" tvg-logo="https://i.imgur.com/mbPvLmS.png" group-title="Radio", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 
-#EXTINF:0 tvg-name="VOV2" tvg-logo="https://mytv.com.vn/upload/channel/112.png" group-title="Radio", VOV2
+#EXTINF:0 tvg-name="VOV2" tvg-logo="https://i.imgur.com/rS7TG49.png" group-title="Radio", VOV2
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
 
-#EXTINF:0 tvg-name="VOV3" tvg-logo="https://mytv.com.vn/upload/channel/113.png" group-title="Radio", VOV3
+#EXTINF:0 tvg-name="VOV3" tvg-logo="https://i.imgur.com/1ZfyuG0.png" group-title="Radio", VOV3
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
 
-#EXTINF:0 tvg-name="VOV4" tvg-logo="https://mytv.com.vn/upload/channel/113.png" group-title="Radio", VOV4
+#EXTINF:0 tvg-name="VOV4" tvg-logo="https://i.imgur.com/gU6k2dJ.png" group-title="Radio", VOV4
 http://media.kythuatvov.vn:7031/;stream/%20
 
-#EXTINF:0 tvg-name="VOV5" tvg-logo="https://brandcom.vn/wp-content/uploads/2016/01/vov5-logo.jpg" group-title="Radio", VOV5
+#EXTINF:0 tvg-name="VOV5" tvg-logo="https://i.imgur.com/7o7hkWq.png" group-title="Radio", VOV5
 http://media.kythuatvov.vn:7007/;stream/
 
-#EXTINF:0 tvg-name="VOV Giao Thông HN" tvg-logo="https://mytv.com.vn/upload/channel/96.png" group-title="Radio", VOV Giao Thông HN
+#EXTINF:0 tvg-name="VOV Giao Thông HN" tvg-logo="https://i.imgur.com/OIzhtBi.png" group-title="Radio", VOV Giao Thông HN
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
 
 #EXTINF:0 tvg-name="Hà Nội FM 90" tvg-logo="" group-title="Radio", Hà Nội FM 90

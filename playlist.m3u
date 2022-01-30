@@ -213,7 +213,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8|Referer=http://sc
 #EXTINF:0 tvg-id="sctv3hd" tvg-name="SCTV3 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/7LYilMt.png", SCTV3
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="sctv4hd" tvg-name="SCTV4 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/eopwrI0.png", SCTV4
+#EXTINF:0 tvg-id="sctv4hd" tvg-name="SCTV4 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/jZBnIXW.png", SCTV4
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.imgur.com/N3WRCXt.png", SCTV5
@@ -234,7 +234,7 @@ http://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8|Referer=http://sct
 #EXTINF:0 group-title="SCTV" tvg-logo="https://i.imgur.com/CPnk2cR.png", SCTV10
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="sctv11hd" tvg-name="SCTV11 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/AbOM9fr.png", SCTV11
+#EXTINF:0 tvg-id="sctv11hd" tvg-name="SCTV11 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/kPOmK1f.png", SCTV11
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv12hd" tvg-name="SCTV12 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/iCmnzZj.png", SCTV12
@@ -255,13 +255,13 @@ http://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd1/index.m3u8|Referer=http://sc
 #EXTINF:0 tvg-id="sctv17hd" tvg-name="SCTV17 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/17lvbuq.png", SCTV17
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="sctv18hd" tvg-name="SCTV18 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/7U9Abfg.png", SCTV18
+#EXTINF:0 tvg-id="sctv18hd" tvg-name="SCTV18 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/pfJbC6q.png", SCTV18
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv19hd" tvg-name="SCTV19 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/dKvkAtU.png", SCTV19
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv19/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="sctv20hd" tvg-name="SCTV20 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/fnqctVZ.png", SCTV20
+#EXTINF:0 tvg-id="sctv20hd" tvg-name="SCTV20 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/sygVs8N.png", SCTV20
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv21hd" tvg-name="SCTV21 HD" group-title="SCTV" tvg-logo="https://i.imgur.com/onPtlVa.png", SCTV21
@@ -306,7 +306,7 @@ https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3
 #EXTINF:0 tvg-id="happykids" tvg-name="Happy Kids" tvg-logo="https://i.imgur.com/Cz2Kju8.png" group-title="Nước ngoài", Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="cbeebies" tvg-name="BBC Cbeebies HD" tvg-logo="https://i.imgur.com/5qXhj64.png" group-title="Nước ngoài", BBC Cbeebies HD
+#EXTINF:0 tvg-id="cbeebies" tvg-name="BBC Cbeebies HD" tvg-logo="https://i.imgur.com/hfVFNGU.png" group-title="Nước ngoài", BBC Cbeebies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 
@@ -357,7 +357,7 @@ https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="dmax" tvg-name="DMAX" tvg-logo="https://i.imgur.com/Tr0z7NR.png" group-title="Nước ngoài", DMAX
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 
-#EXTINF:0 tvg-id="historyhd" tvg-name="History HD" tvg-logo="https://i.imgur.com/VG9p0YJ.png" group-title="Nước ngoài", History HD
+#EXTINF:0 tvg-id="historyhd" tvg-name="History HD" tvg-logo="https://i.imgur.com/hH5cFq4.png" group-title="Nước ngoài", History HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="animalhd" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/BJVAUWg.png" group-title="Nước ngoài", Animal Planet HD

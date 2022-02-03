@@ -788,11 +788,15 @@ http://media.kythuatvov.vn:7007/;stream/
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
 
 #EXTINF:0 tvg-id="kpchd" tvg-name="K+ Sport 1 HD" tvg-logo="https://i.imgur.com/opYzkfc.png" group-title="K+", K+ Sport 1 HD
+http://cdnspt.vthanh.xyz/ksport1/mpegts
 
 #EXTINF:0 tvg-id="kpmhd" tvg-name="K+ Sport 2 HD" tvg-logo="https://i.imgur.com/dcgF0bq.png" group-title="K+", K+ Sport 2 HD 
+http://cdnspt.vthanh.xyz/ksport2/mpegts
 
-#EXTINF:0 tvg-id="k1hd" tvg-name="K+ Cine HD" tvg-logo="https://i.imgur.com/sOJxEiE.png" group-title="K+", K+ Cine HD 
+#EXTINF:0 tvg-id="k1hd" tvg-name="K+ Cine HD" tvg-logo="https://i.imgur.com/sOJxEiE.png" group-title="K+", K+ Cine HD
+http://cdnspt.vthanh.xyz/kcine/mpegts
 
 #EXTINF:0 tvg-id="knshd" tvg-name="K+ Life HD" tvg-logo="https://i.imgur.com/Gotl6Ru.png" group-title="K+", K+ Life HD 
+http://cdnspt.vthanh.xyz/klife/mpegts
 
 #EXTINF:0 tvg-id="knshd" tvg-name="K+ Kids HD" tvg-logo="https://i.imgur.com/ZASjJwy.png" group-title="K+", K+ Kids HD 

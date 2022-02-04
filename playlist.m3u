@@ -301,7 +301,7 @@ https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="happykids" tvg-name="Happy Kids" tvg-logo="https://i.imgur.com/Cz2Kju8.png" group-title="Nước ngoài", Happy Kids
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://pprex49o5aliv.vcdn.cloud/live/happy-kids/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="cbeebies" tvg-name="BBC Cbeebies HD" tvg-logo="https://i.imgur.com/hfVFNGU.png" group-title="Nước ngoài", BBC Cbeebies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
@@ -324,16 +324,16 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" tvg-name="BOX Movies 1 HD" tvg-logo="https://i.imgur.com/leWw1zz.png" group-title="Nước ngoài", BOX Movies 1 HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://pprex49o5aliv.vcdn.cloud/live/box-movie/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="hollywoodclassics" tvg-name="Hollywood Classics HD" tvg-logo="https://i.imgur.com/ClKBSSK.png" group-title="Nước ngoài", Hollywood Classics HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://pprex49o5aliv.vcdn.cloud/live/hollywood/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="inthebox" tvg-name="BOX Channel" tvg-logo="https://i.imgur.com/C4bG0Md.png" group-title="Nước ngoài", BOX Channel
-https://dl.dropboxusercontent.com/s/vbw1it91f0wi3g6/l
+https://pprex49o5aliv.vcdn.cloud/live/box-channel/playlist.m3u8
 
 #EXTINF:0 tvg-id="boxhits" tvg-name="BOX Hits" tvg-logo="https://i.imgur.com/VrfSOF4.png" group-title="Nước ngoài", BOX Hits
-https://dl.dropboxusercontent.com/s/spknj66mt880shf/l
+https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="warnertvhd" tvg-name="Warner TV HD" tvg-logo="https://i.imgur.com/FVxAcMB.png" group-title="Nước ngoài" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
@@ -362,7 +362,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="planetearthhd" tvg-name="Planet Earth" tvg-logo="https://i.imgur.com/L0EQrhp.png" group-title="Nước ngoài", Planet Earth
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://pprex49o5aliv.vcdn.cloud/live/planet-earth/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="ngwhd" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.imgur.com/RFuZxnW.png" group-title="Nước ngoài", Nat Geo Wild HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
@@ -380,7 +380,7 @@ http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0  tvg-id="man" tvg-name="Man" tvg-logo="https://i.imgur.com/eojhBXT.png" group-title="Nước ngoài", Man
-https://dl.dropboxusercontent.com/s/d6ee6vnwukqbk81/l
+https://pprex49o5aliv.vcdn.cloud/live/man-tv/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="blueantent" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://i.imgur.com/qAaqiZV.png" group-title="Nước ngoài", Blue Ant Entertainment HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
@@ -407,7 +407,7 @@ https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="musicbox" tvg-name="Music Box" tvg-logo="https://i.imgur.com/2UBIyT5.png" group-title="Nước ngoài", Music Box
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="afnhd" tvg-name="AFN HD" tvg-logo="https://i.imgur.com/G5eiyTs.png" group-title="Nước ngoài", Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
@@ -418,14 +418,14 @@ https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="drfithd" tvg-name="Dr Fit" tvg-logo="https://i.imgur.com/VrohcBb.png" group-title="Nước ngoài", Dr Fit
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn
+https://pprex49o5aliv.vcdn.cloud/live/dr-fit/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="woman" tvg-name="Woman" tvg-logo="https://i.imgur.com/ePYXLBQ.png" group-title="Nước ngoài", Woman
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://pprex49o5aliv.vcdn.cloud/live/woman/chunklist_2.m3u8
 
 #EXTINF:0 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://i.imgur.com/OxRpXbk.png" group-title="Nước ngoài", Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
-https://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/1280px-KBS_World.svg.png" group-title="Nước ngoài", KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
@@ -787,12 +787,16 @@ http://media.kythuatvov.vn:7007/;stream/
 #EXTINF:0 tvg-name="VOV Giao Thông HN" tvg-logo="https://i.imgur.com/OIzhtBi.png" group-title="Radio", VOV Giao Thông HN
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
 
-#EXTINF:0 tvg-id="kpchd" tvg-name="K+ Sport 1 HD" tvg-logo="https://i.imgur.com/opYzkfc.png" group-title="K+", K+ Sport 1 HD
+#EXTINF:0 tvg-id="ksport1hd" tvg-name="K+ Sport 1 HD" tvg-logo="https://i.imgur.com/opYzkfc.png" group-title="K+", K+ Sport 1 HD
+http://cdnspt.vthanh.xyz/ksport1/mpegts
 
-#EXTINF:0 tvg-id="kpmhd" tvg-name="K+ Sport 2 HD" tvg-logo="https://i.imgur.com/dcgF0bq.png" group-title="K+", K+ Sport 2 HD 
+#EXTINF:0 tvg-id="ksport2hd" tvg-name="K+ Sport 2 HD" tvg-logo="https://i.imgur.com/dcgF0bq.png" group-title="K+", K+ Sport 2 HD 
+http://cdnspt.vthanh.xyz/ksport2/mpegts
 
-#EXTINF:0 tvg-id="k1hd" tvg-name="K+ Cine HD" tvg-logo="https://i.imgur.com/sOJxEiE.png" group-title="K+", K+ Cine HD 
+#EXTINF:0 tvg-id="kcinehd" tvg-name="K+ Cine HD" tvg-logo="https://i.imgur.com/sOJxEiE.png" group-title="K+", K+ Cine HD 
+http://cdnspt.vthanh.xyz/kcine/mpegts
 
-#EXTINF:0 tvg-id="knshd" tvg-name="K+ Life HD" tvg-logo="https://i.imgur.com/Gotl6Ru.png" group-title="K+", K+ Life HD 
+#EXTINF:0 tvg-id="klifehd" tvg-name="K+ Life HD" tvg-logo="https://i.imgur.com/Gotl6Ru.png" group-title="K+", K+ Life HD 
+http://cdnspt.vthanh.xyz/klife/mpegts
 
-#EXTINF:0 tvg-id="knshd" tvg-name="K+ Kids HD" tvg-logo="https://i.imgur.com/ZASjJwy.png" group-title="K+", K+ Kids HD 
+#EXTINF:0 tvg-id="kkidshd" tvg-name="K+ Kids HD" tvg-logo="https://i.imgur.com/ZASjJwy.png" group-title="K+", K+ Kids HD 

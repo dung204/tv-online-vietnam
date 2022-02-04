@@ -407,6 +407,7 @@ https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="musicbox" tvg-name="Music Box" tvg-logo="https://i.imgur.com/2UBIyT5.png" group-title="Nước ngoài", Music Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="afnhd" tvg-name="AFN HD" tvg-logo="https://i.imgur.com/G5eiyTs.png" group-title="Nước ngoài", Asian Food Network

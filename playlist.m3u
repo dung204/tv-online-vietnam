@@ -789,15 +789,19 @@ http://media.kythuatvov.vn:7007/;stream/
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
 
 #EXTINF:0 tvg-id="ksport1hd" tvg-name="K+ Sport 1 HD" tvg-logo="https://i.imgur.com/opYzkfc.png" group-title="K+", K+ Sport 1 HD
-http://cdnspt.vthanh.xyz/ksport1/mpegts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+https://livecdn.fptplay.net/hdevent%20/27082021k1pm_4000.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ksport2hd" tvg-name="K+ Sport 2 HD" tvg-logo="https://i.imgur.com/dcgF0bq.png" group-title="K+", K+ Sport 2 HD 
-http://cdnspt.vthanh.xyz/ksport2/mpegts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+https://livecdn.fptplay.net/hdevent%20/27082021k1pc_4000.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="kcinehd" tvg-name="K+ Cine HD" tvg-logo="https://i.imgur.com/sOJxEiE.png" group-title="K+", K+ Cine HD 
-http://cdnspt.vthanh.xyz/kcine/mpegts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+https://livecdn.fptplay.net/hdevent%20/27082021k1_4000.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="klifehd" tvg-name="K+ Life HD" tvg-logo="https://i.imgur.com/Gotl6Ru.png" group-title="K+", K+ Life HD 
-http://cdnspt.vthanh.xyz/klife/mpegts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+https://livecdn.fptplay.net/hdevent%20/27082021k1ns_4000.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="kkidshd" tvg-name="K+ Kids HD" tvg-logo="https://i.imgur.com/ZASjJwy.png" group-title="K+", K+ Kids HD 

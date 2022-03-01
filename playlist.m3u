@@ -354,6 +354,9 @@ https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="dmax" tvg-name="DMAX" tvg-logo="https://i.imgur.com/Tr0z7NR.png" group-title="Nước ngoài", DMAX
 http://cdnspt.vthanh.xyz:81/dmax
 
+#EXTINF:0 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://i.imgur.com/BwBr0ib.png" group-title="Nước ngoài", HGTV
+http://vthanh.me/getlink2022/tv360.php?id=99&q=2
+
 #EXTINF:0 tvg-id="historyhd" tvg-name="History HD" tvg-logo="https://i.imgur.com/hH5cFq4.png" group-title="Nước ngoài", History HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
@@ -391,7 +394,7 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="hits" tvg-name="HITS" tvg-logo="https://i.imgur.com/1sSuvwT.png" group-title="Nước ngoài", HITS
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+http://vthanh.me/getlink2022/tv360.php?id=107&q=2
 
 #EXTINF:0 tvg-id="outdoorhd" tvg-name="Outdoor Channel HD" tvg-logo="https://i.imgur.com/zvHDHHN.png" group-title="Nước ngoài", Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36

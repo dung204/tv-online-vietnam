@@ -815,16 +815,16 @@ http://media.kythuatvov.vn:7007/;stream/
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
 
 #EXTINF:0 tvg-id="ksport1hd" tvg-name="K+ Sport 1 HD" tvg-logo="https://i.imgur.com/opYzkfc.png" group-title="K+", K+ Sport 1 HD
-http://live.television4you.xyz:8080/ksport1
+http://live.television4you.xyz/livekplus/sp130072022.stream/mpegts?token=b44d22277457989e6241827a6a636d6c2b595b27-115e1217cf9cfea3f2e0822bd6ca72af-1659337115-1659333515
 
 #EXTINF:0 tvg-id="ksport2hd" tvg-name="K+ Sport 2 HD" tvg-logo="https://i.imgur.com/dcgF0bq.png" group-title="K+", K+ Sport 2 HD 
-http://live.television4you.xyz:8080/ksport2
+http://live.television4you.xyz/livekplus/sp230072022.stream/mpegts?token=310010de5c79fee9d5b44b496e6485d0cf7eb16b-30bba10b73bf5d86acfa9685c7d1164d-1659337115-1659333515
 
 #EXTINF:0 tvg-id="kcinehd" tvg-name="K+ Cine HD" tvg-logo="https://i.imgur.com/sOJxEiE.png" group-title="K+", K+ Cine HD 
-http://live.television4you.xyz:8080/kcine
+http://live.television4you.xyz/livekplus/cine30072022.stream/mpegts?token=fb86fdf167ada0d1863e87bd0aa01afc39b94518-ae1ae1957a9aef427fbd340a4bfec439-1659337115-1659333515
 
 #EXTINF:0 tvg-id="klifehd" tvg-name="K+ Life HD" tvg-logo="https://i.imgur.com/Gotl6Ru.png" group-title="K+", K+ Life HD 
-http://live.television4you.xyz:8080/klife
+http://live.television4you.xyz/livekplus/life30072022.stream/mpegts?token=4ff1b6918b07b851e0d1756693c03f50a336e5b2-5c541e881563aefcddd62be05dd6eb28-1659337115-1659333515
 
 #EXTINF:0 tvg-id="kkidshd" tvg-name="K+ Kids HD" tvg-logo="https://i.imgur.com/ZASjJwy.png" group-title="K+", K+ Kids HD
-http://live.television4you.xyz:8080/kkids
+http://live.television4you.xyz/livekplus/kids30072022.stream/mpegts?token=f805bc50a9d5ac786e39694739f7fbb9759a0189-1885c93a08f4272611cd38bb558db1b2-1659337115-1659333515

@@ -815,16 +815,36 @@ http://media.kythuatvov.vn:7007/;stream/
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
 
 #EXTINF:0 tvg-id="ksport1hd" tvg-name="K+ Sport 1 HD" tvg-logo="https://i.imgur.com/opYzkfc.png" group-title="K+", K+ Sport 1 HD
-http://live.television4you.xyz/livekplus/sp130072022.stream/mpegts?token=b44d22277457989e6241827a6a636d6c2b595b27-115e1217cf9cfea3f2e0822bd6ca72af-1659337115-1659333515
+http://live.television4you.xyz/livekplus/sp130072022.stream/mpegts?token=4347832d9e160a54b5c7da5cb98916f4d74c51f0-deeb3a0629f47b48230d67b60aaf87f9-1659421744-1659418144
 
 #EXTINF:0 tvg-id="ksport2hd" tvg-name="K+ Sport 2 HD" tvg-logo="https://i.imgur.com/dcgF0bq.png" group-title="K+", K+ Sport 2 HD 
-http://live.television4you.xyz/livekplus/sp230072022.stream/mpegts?token=310010de5c79fee9d5b44b496e6485d0cf7eb16b-30bba10b73bf5d86acfa9685c7d1164d-1659337115-1659333515
+http://live.television4you.xyz/livekplus/sp230072022.stream/mpegts?token=5cf28174e14705b0ec05f52139615cea972d2bf0-cf3c99fd6639264474cca406059c0cb5-1659421744-1659418144
 
 #EXTINF:0 tvg-id="kcinehd" tvg-name="K+ Cine HD" tvg-logo="https://i.imgur.com/sOJxEiE.png" group-title="K+", K+ Cine HD 
-http://live.television4you.xyz/livekplus/cine30072022.stream/mpegts?token=fb86fdf167ada0d1863e87bd0aa01afc39b94518-ae1ae1957a9aef427fbd340a4bfec439-1659337115-1659333515
+http://live.television4you.xyz/livekplus/cine30072022.stream/mpegts?token=854544de42a84a97f6b08c65663820282e2d2479-289636a911f4527988f549040eb1d2ee-1659421744-1659418144
 
 #EXTINF:0 tvg-id="klifehd" tvg-name="K+ Life HD" tvg-logo="https://i.imgur.com/Gotl6Ru.png" group-title="K+", K+ Life HD 
-http://live.television4you.xyz/livekplus/life30072022.stream/mpegts?token=4ff1b6918b07b851e0d1756693c03f50a336e5b2-5c541e881563aefcddd62be05dd6eb28-1659337115-1659333515
+http://live.television4you.xyz/livekplus/life30072022.stream/mpegts?token=6c529c9a6b319afd4a4cc1b76e81c14cdf8c21a6-64bf58abdf3d98b7ebeb21330f3d428a-1659421744-1659418144
 
 #EXTINF:0 tvg-id="kkidshd" tvg-name="K+ Kids HD" tvg-logo="https://i.imgur.com/ZASjJwy.png" group-title="K+", K+ Kids HD
 http://live.television4you.xyz/livekplus/kids30072022.stream/mpegts?token=f805bc50a9d5ac786e39694739f7fbb9759a0189-1885c93a08f4272611cd38bb558db1b2-1659337115-1659333515
+
+#EXTINF:0 tvg-id="ksport1hd" tvg-name="K+ Sport 1 HD (MPD)" tvg-logo="https://i.imgur.com/opYzkfc.png" group-title="K+ (MPD)", K+ Sport 1 HD (MPD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=1fe5426280a93352b2d7f36ff3422772&key=eb024058f8c54948a124d6239afd783e
+https://smarttv-drm.fptplay.net/vthanhtivi/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
+
+#EXTINF:0 tvg-id="ksport2hd" tvg-name="K+ Sport 2 HD" tvg-logo="https://i.imgur.com/dcgF0bq.png" group-title="K+ (MPD)", K+ Sport 2 HD (MPD) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098
+https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1sport2_4000.stream/manifest.mpd
+
+#EXTINF:0 tvg-id="kcinehd" tvg-name="K+ Cine HD (MPD)" tvg-logo="https://i.imgur.com/sOJxEiE.png" group-title="K+ (MPD)", K+ Cine HD (MPD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd
+https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1cine_4000.stream/manifest.mpd
+
+#EXTINF:0 tvg-id="klifehd" tvg-name="K+ Life HD (MPD)" tvg-logo="https://i.imgur.com/Gotl6Ru.png" group-title="K+ (MPD)", K+ Life HD (MPD) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=3c02226f8bec3f948d3e05836c410e7e&key=4a93d65f5e7009bcaf573b187e68fd21
+https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1lifeb_4000.stream/manifest.mpd

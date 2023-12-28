@@ -86,7 +86,7 @@ https://code.vthanhtivi.pw/getlink/tv360/tFQ3Dn0Y04uAca3M5i7PBA/1703694536/17/pl
 #EXTINF:0 tvg-id="vtc16" tvg-logo="https://i.imgur.com/sWbU8jO.png" group-title="VTC" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc16-hd/${start}/${offset}", VTC16
 https://1117141481.vnns.net/VTC16/playlist.m3u8
 
-#EXTINF:0 tvg-id="vtvcab1hd" tvg-logo="https://i.imgur.com/86M8nJ2.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}", VTVcab 1 - Vie Giải Trí
+#EXTINF:0 tvg-id="vtvcab1hd" tvg-logo="https://i.imgur.com/Ig1iaJ8.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}", VTVcab 1 - Vie Giải Trí
 https://code.vthanhtivi.pw/getlink/tv360/W8DU_ebxFi41vr4G-BPnUQ/1703694536/180/playlist.m3u8
 
 #EXTINF:0 tvg-id="vtvcab2hd" tvg-logo="https://i.imgur.com/UVhLDh4.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799/${start}/${offset}", ON Phim Việt
@@ -98,7 +98,7 @@ http://d343f8ab.vthanhtivi.pw/onsports/mpegts
 #EXTINF:0 tvg-id="vtvcab4hd" tvg-logo="https://i.imgur.com/TPwflH1.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/${start}/${offset}", ON Movies
 https://code.vthanhtivi.pw/getlink/tv360/c0-fAm_QeoOrrgzwj59BOg/1703694536/181/playlist.m3u8
 
-#EXTINF:0 tvg-id="vtvcab5hd" tvg-logo="https://i.imgur.com/XhtsKmb.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4/${start}/${offset}", VTVcab 5 - E channel
+#EXTINF:0 tvg-id="vtvcab5hd" tvg-logo="https://i.imgur.com/NmDs4Jj.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4/${start}/${offset}", VTVcab 5 - E channel
 https://code.vthanhtivi.pw/getlink/tv360/Ta1Nm9ZE-9b5aIMktwt77w/1703694536/182/playlist.m3u8
 
 #EXTINF:0 tvg-id="vtvcab6hd" tvg-logo="https://i.imgur.com/0WG6aCs.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/${start}/${offset}", ON Sports+
@@ -111,13 +111,13 @@ https://code.vthanhtivi.pw/getlink/vieon2/OAWWLRjr-dUt5gSmL-2Vkw/1703694536/vtvc
 #EXTINF:0 tvg-id="vtvcab8hd" tvg-logo="https://i.imgur.com/pVgwxIQ.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/0327f7ef-4c0f-4e66-a240-819452590d40/${start}/${offset}", ON BiBi
 https://code.vthanhtivi.pw/getlink/tv360/dAHe2Dt96qT96IJ3AHKe3A/1703694536/178/playlist.m3u8
 
-#EXTINF:0 tvg-id="vtvcab9hd" tvg-logo="https://i.imgur.com/PeYNnMi.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/6c7701f5-7ea6-4168-a245-3be82065ae58/${start}/${offset}", VTVcab 9 - Info TV
+#EXTINF:0 tvg-id="vtvcab9hd" tvg-logo="https://i.imgur.com/4Fuv7kz.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/6c7701f5-7ea6-4168-a245-3be82065ae58/${start}/${offset}", VTVcab 9 - Info TV
 https://code.vthanhtivi.pw/getlink/tv360/7Akt8sJB-_1h3E4X4kt89w/1703694536/189/playlist.m3u8
 
 #EXTINF:0 tvg-id="vtvcab10hd" tvg-logo="https://i.imgur.com/OIVICQx.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/f7aaa051-d67c-4131-a486-98699d4c9863/${start}/${offset}", ON Cine
 https://code.vthanhtivi.pw/getlink/tv360/nJ4w3xm0YCV1tLYuevW9pw/1703694536/176/playlist.m3u8
 
-#EXTINF:0 tvg-id="vtvcab12hd" tvg-logo="https://i.imgur.com/yy8Wg3A.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355/${start}/${offset}", VTVcab 12 - Style TV
+#EXTINF:0 tvg-id="vtvcab12hd" tvg-logo="https://i.imgur.com/cGLljjx.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355/${start}/${offset}", VTVcab 12 - Style TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://code.vthanhtivi.pw/getlink/vieon/Vx_SDMszvXVjorcB0h7vXw/1703694536/vtvcab12-style-tv/playlist.m3u8
 
@@ -128,7 +128,7 @@ https://code.vthanhtivi.pw/getlink/vieon/kP4xZFGl-C2TGwGg82_CMg/1703694536/vtvca
 #EXTINF:0 tvg-id="vtvcab16hd" tvg-logo="https://i.imgur.com/yVrY9R0.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/${start}/${offset}", ON Football
 http://d343f8ab.vthanhtivi.pw/onfootball/mpegts
 
-#EXTINF:0 tvg-id="vtvcab17hd" tvg-logo="https://i.imgur.com/Qjt6D3c.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/${start}/${offset}", VTVcab 17 - Yeah1 TV
+#EXTINF:0 tvg-id="vtvcab17hd" tvg-logo="https://i.imgur.com/ihEf4lC.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/${start}/${offset}", VTVcab 17 - Yeah1 TV
 https://code.vthanhtivi.pw/getlink/tv360/T3KZY2W2dspLO1hoEKDFHQ/1703694536/186/playlist.m3u8
 
 #EXTINF:0 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/DRaBQah.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/987374ca-de49-4612-a159-b71f7880d134/${start}/${offset}", ON Sports News
@@ -137,7 +137,7 @@ http://d343f8ab.vthanhtivi.pw/onsportsnews/mpegts
 #EXTINF:0 tvg-id="vtvcab19hd" tvg-logo="https://i.imgur.com/8e5aeiW.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", VTVcab 19 - Vie Dramas
 https://code.vthanhtivi.pw/getlink/tv360/RtGdLcGj6WXsh5dWx6u4Mw/1703694536/177/playlist.m3u8
 
-#EXTINF:0 tvg-id="vtvcab20hd" tvg-logo="https://i.imgur.com/9CN2ILC.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/2eb37e8d-2abf-4bce-aa44-b3b9a4460469/${start}/${offset}", VTVcab 20 - VFamily
+#EXTINF:0 tvg-id="vtvcab20hd" tvg-logo="https://i.imgur.com/bjRcMtg.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/2eb37e8d-2abf-4bce-aa44-b3b9a4460469/${start}/${offset}", VTVcab 20 - VFamily
 https://code.vthanhtivi.pw/getlink/tv360/KWOQbE7BKZjenTHWWG96xg/1703694536/187/playlist.m3u8
 
 #EXTINF:0 tvg-id="vtvcab21hd" tvg-logo="https://i.imgur.com/lNgT47T.png" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/005a05b2-14d6-4b94-9318-9e3bb78f6311/${start}/${offset}", ON Kids
@@ -281,7 +281,7 @@ https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 #EXTINF:0 tvg-id="cartoonhd" tvg-logo="https://i.imgur.com/9aw5DAe.png" group-title="Nước ngoài" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD 
 http://vthanhtivi.pw:5000/cartoon/index.m3u8
 
-#EXTINF:0 tvg-id="boomerang" tvg-logo="https://i.imgur.com/nqg0SN2.png" group-title="Nước ngoài" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang
+#EXTINF:0 tvg-id="boomerang" tvg-logo="https://i.imgur.com/P17HWat.png" group-title="Nước ngoài" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoonito
 http://vthanhtivi.pw/cartoonito/index.m3u8
 
 #EXTINF:0 tvg-id="animaxhd" tvg-logo="https://i.imgur.com/H86CyNe.png" group-title="Nước ngoài" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax
